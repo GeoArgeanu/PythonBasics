@@ -1,2 +1,2 @@
 
-Teme de la un curs PYTHON
+Teme de la cursul PYTHON
